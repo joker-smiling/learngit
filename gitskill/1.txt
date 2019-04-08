@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 hello 
 halo
 hello
 mike
 mike
 mike
+=======
+2323213
+>>>>>>> a24a871564b478654b1aa5d6f2a2ae3798cc4aba
